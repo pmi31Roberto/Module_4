@@ -1,4 +1,4 @@
-from package1.package2.module1 import hello
+from ..module1 import hello
 
 
 def good_word(name):
